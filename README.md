@@ -3,11 +3,11 @@ Hi there! 👋 I'm Gagan Sharma<br>Mobile Developer with 6+ years of hands-on ex
 <br><br>
 
 🔧 Skills & Expertise:<br>
-**Android Development** :Kotlin, Jetpack Compose, Android SDK 
-**Cross-Platform** :Flutter 
-**Databases** :Room, SQLite, Firebase Firestore
-**Backend & Cloud** :Google Firebase (Auth, Firestore, Cloud Functions) 
-**APIs & Payments** :REST APIs, Payment Gateway Integrations 
+**Android Development** :Kotlin, Jetpack Compose, Android SDK <br>
+**Cross-Platform** :Flutter<br> 
+**Databases** :Room, SQLite, Firebase Firestore<br>
+**Backend & Cloud** :Google Firebase (Auth, Firestore, Cloud Functions)<br> 
+**APIs & Payments** :REST APIs, Payment Gateway Integrations<br> 
 **DevOps & Tools** :CI/CD (GitHub Actions), Git, Android Studio, Postman
 <br>
 
