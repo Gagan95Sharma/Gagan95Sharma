@@ -11,13 +11,6 @@ Hi there! 👋 I'm Gagan Sharma<br>Mobile Developer with 6+ years of hands-on ex
 **DevOps & Tools** :CI/CD (GitHub Actions), Git, Android Studio, Postman
 <br>
 
-💼 What I Bring to the Table:<br>
-Deep understanding of Android SDK and development tools<br>Expertise in REST API implementation across Android and Flutter<br>
-Experience with MVVM architecture and various databases (Room, SQLite, Firebase)<br>Seamless integration of payment gateways and third-party services<br>
-Strong collaboration with cross-functional teams, handling both backend and frontend<br>Proficient in version control and project management using GitHub<br>Let’s connect and build something amazing together! ✨<br><br>
-Speaks Hindi,English, Punjabi
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@cosmocality) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/gagan-sharma-55796b202) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Cosmocality) 
 
